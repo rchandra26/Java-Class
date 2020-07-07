@@ -1,0 +1,7 @@
+3 examples of data types
+1: numbers
+numbers can represent age, cost, birthday,model of an object
+2: characters
+characters can be used to represent names of people and objects and used to write
+3: fractions and decimals
+you can use decimals to represent the cost of items
